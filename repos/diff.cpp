@@ -4,7 +4,7 @@ int main()
 {
  int a,b;
  a=b=5;
- cout<<a-b<<endl;
+ cout<<"Difference of a and b is "<<a-b<<endl;
  
  return 0;
 }
